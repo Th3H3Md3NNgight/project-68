@@ -27,3 +27,9 @@ h1 {
     top:0;
     z-index:99999;
 }
+.campus_mainDiv img{
+    width: 100%;
+}
+.campus_mainDiv h5, .campus_mainDiv p{
+    margin: 20px;
+}
