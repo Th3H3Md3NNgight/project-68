@@ -45,3 +45,9 @@ h1 {
 .achievements_text span{
     color: orange;
 }
+#what's new{
+    margin-bottom:20px;
+}
+#contact iframe{
+    width: 100%;
+}
